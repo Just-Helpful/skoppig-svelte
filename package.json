@@ -1,7 +1,8 @@
 {
-  "name": "@skoppig/monorepo",
+  "name": "@skoppig/root",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
+  "description": "The monorepo used for skoppig svelte packages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

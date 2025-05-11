@@ -1,6 +1,7 @@
 {
 	"name": "@skoppig/render-graph",
 	"version": "0.0.1",
+	"description": "SvelteJS flow graph visualisations",
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev",
