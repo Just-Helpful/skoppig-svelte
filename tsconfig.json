@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    //
+    // Checks
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true,
+    //
+    // Syntax
+    "lib": [
+      "ESNext"
+    ],
+    "target": "ES6",
+    "esModuleInterop": true,
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    //
+    // Links
+    "paths": {
+      "src/*": [
+        "./src/*"
+      ],
+      "test/*": [
+        "./test/*"
+      ]
+    },
+    //
+    // Emit
+    "sourceMap": true,
+    "declaration": true,
+    "erasableSyntaxOnly": true,
+    //
+    // Projects
+    "composite": true
+  }
+}
