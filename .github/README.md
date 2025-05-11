@@ -1,4 +1,4 @@
-# SKOPPIG (svelte)
+# SKOPPIG `svelte`
 
 ## Primary idea
 
